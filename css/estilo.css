@@ -17,6 +17,12 @@ h1, h2{
 
 #conteudo{
     line-height: 1.5;
-
 }
+
+form{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+
 
